@@ -1,0 +1,31 @@
+.shield {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    margin-left: -225px;
+    margin-top: -170px;
+    width: 450px;
+    text-align: center;
+    font-family: "Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+}
+
+.me {
+    font-size: 72px;
+    line-height: 52px;
+    text-shadow: -3px 0 0 hsla(191, 100%, 50%, .3), 3px 0 0 hsla(20, 100%, 30%, .3);
+}
+
+.about {
+    font-size: 24px;
+    line-height: 18px;
+}
+
+.about {
+    font-size: 24px;
+    line-height: 16px;
+}
+
+.find {
+    font-size: 24px;
+    line-height: 28px;
+}

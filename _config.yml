@@ -1,0 +1,14 @@
+title: Pedro Giménez
+title-notes: Notes | Pedro Giménez
+description: Intellectual athlete. I write software at Chicisimo.
+author: Pedro Giménez
+url: "https://pedro.bz"
+repository: pedrogimenez/pedrogimenez.github.io
+
+markdown: kramdown
+permalink: :title/
+
+exclude:
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
