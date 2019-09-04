@@ -1,0 +1,13 @@
+title: Pedro Giménez
+description: Tinkering with tech, building teams and making things work (eventually). Leading the charge at Shop Growth.
+author: Pedro Giménez
+url: "https://pedro.bz"
+repository: pedrogimenez/pedrogimenez.github.io
+
+markdown: kramdown
+permalink: :title/
+
+exclude:
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
